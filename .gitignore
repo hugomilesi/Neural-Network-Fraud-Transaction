@@ -1,7 +1,4 @@
 venv/
-logs/
 .vscode/
-fraud_train.csv
-fraud_val.csv
 data/
 kaggle_cred/
