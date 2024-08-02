@@ -14,7 +14,9 @@ The data is sourced from Kaggle(https://www.kaggle.com/datasets/shriyashjagtap/f
 
 - eda.ipynb: Commented Walkthrough of the Exploratory Data Analysis process and visualizations.
 
-- ANN.ipynb: Artificial Neural Network Model.
+- ANN_model.ipynb: Artificial Neural Network Model.
+
+-  ANN_model_presentation.pdf: Slide presentation of the entire project.
 
 - requirements.txt: All packages necessary to use this repo (run pip install -r requirements.txt)
 
